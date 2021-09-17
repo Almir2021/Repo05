@@ -1,8 +1,8 @@
 function main() {
 
     //only change code below this line
-    var myName = "slimShady"
-    var myString = "My name is " + myName + " and I am well"
+    var myName = "slimShady";
+    var myString = "My name is " + myName + " and I am well";
     //only change code above this line 
     return myString;
 
